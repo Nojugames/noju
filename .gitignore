@@ -1,0 +1,38 @@
+# editor files
+.idea/*
+.vscode/*
+
+# root stuff created by composer-up
+
+/wp-trackback.php
+/wp-config.php
+/xmlrpc.php
+/wp-cron.php
+/index.php
+/license.txt
+/.htaccess
+/wp-activate.php
+/wp-mail.php
+/wp-load.php
+/wp-blog-header.php
+/wp-settings.php
+/wp-comments-post.php
+/wp-login.php
+/wp-signup.php
+/wp-links-opml.php
+/wp-config-sample.php
+/readme.html
+
+# don't need these, will be created with composer up
+/wp-includes/
+/wp-admin/
+
+# really don't need these after adding starter theme
+wp-content/*
+!wp-content/themes
+
+wp-content/themes/*
+
+# Download theme and include it like this, git add -A, git commit and git push
+!wp-content/themes/nojustarter
+

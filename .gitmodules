@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/nojustarter"]
+	path = wp-content/themes/noju-theme
+	url = git@github.com:Nojugames/noju-theme.git
