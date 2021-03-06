@@ -34,5 +34,5 @@ wp-content/*
 wp-content/themes/*
 
 # Download theme and include it like this, git add -A, git commit and git push
-!wp-content/themes/nojustarter
-
+!wp-content/themes/noju-theme
+!wp-content/themes/noju-child
